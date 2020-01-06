@@ -8,3 +8,6 @@
 
 ### 软件架构
 WeUI + Larave + Baidu_Api
+
+### 页面效果图
+![页面效果图](https://github.com/Colin1024/zmScore_OCR/blob/master/public/images/zmScore.png)
